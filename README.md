@@ -177,7 +177,7 @@ UICKeyChainStore *keychain = [UICKeyChainStore keyChainStoreWithServer:[NSURL UR
             comment:@"github access token"];
 ```
 
-### Configuration (Accessibility, Sharing, iCould Sync)
+### Configuration (Accessibility, Sharing, iCloud Sync)
 
 #### <a name="accessibility"> Accessibility
 
